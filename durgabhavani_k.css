@@ -1,0 +1,54 @@
+h1
+{
+text-align:center;
+color:white;
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    color:blue;
+    overflow:hidden;
+    background-color:white;
+    }
+iframe
+{
+width: 300px;
+}
+li
+{
+float:left;
+}
+
+li a
+{
+display:block;
+color:black;
+padding:14px 16px;
+text-decoration:none;
+}
+body
+{
+background-color:pink;
+background-image: url(bw.jpg);
+}
+
+h2
+{
+color:red;
+}
+#p1
+{
+text-align:center;
+font-size:25px;
+color:white;
+font-family:italic;
+}
+#p2
+{
+color:white;
+font-size:20px;
+font-family:italic;
+}
+
+
